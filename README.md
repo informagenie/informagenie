@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=informagenie" alt="informagenie" /></a> </p>
 
-- 🔭 I’m currently working on **Illicocash E-ticketing**
+- 🔭 I’m currently working on **E-ticketing platform**
 
 - 💬 Ask me about **php, react, javascript, laravel, wordpress,**
 
